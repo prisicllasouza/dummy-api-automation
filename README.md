@@ -29,7 +29,7 @@ Referências:
 - https://dummyapi.io/docs
 - https://dummyapi.io/data/v1
 
-Definições: Esse plano de teste foi criado para validar a API de validador de cadastros de usuários e postagens.
+Definições: Esse plano de teste foi criado para validar a API de gerenciamento de cadastros de usuários e postagens.
 
 ### Escopo: 
 
