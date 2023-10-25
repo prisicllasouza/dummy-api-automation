@@ -22,7 +22,6 @@
 - Gradle DSL: Kotlin
 3. Executar testes da classe:
 - RegistrationValidator
-- OBS: Caso execute mais de uma vez, será necessário incluir um e-mail novo no "testCreateUser"
 
 ### Projeto: Validador de cadastros de usuários e postagens
 
