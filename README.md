@@ -1,15 +1,15 @@
 ## Dummy-api-automation
 
-## Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 - Java
 - REST Assured
 - Gradle
 
-## Desgin Patter
-Padrão Arrange-Act-Assert (AAA)
+### Desgin Patter
+- Padrão Arrange-Act-Assert (AAA)
 
-## Instalação
+### Instalação
 
 ### Instruções de uso:
 
@@ -32,7 +32,7 @@ Referências:
 
 Definições: Esse plano de teste foi criado para validar a API de validador de cadastros de usuários e postagens.
 
-## Escopo: 
+### Escopo: 
 
 | Método | Endpoint | Descrição
 | ------- | --------- | --------- 
@@ -44,7 +44,7 @@ Definições: Esse plano de teste foi criado para validar a API de validador de 
 | DELETE| https://dummyapi.io/data/v1/post/:id| Deletar postagem por id
 
 
-## Cenários de teste
+### Cenários de teste
 
 ```gherkin
 1. Scenario: Create User
